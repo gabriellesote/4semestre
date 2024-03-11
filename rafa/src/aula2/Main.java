@@ -1,6 +1,10 @@
 package aula2;
 
 import java.util.Scanner;
+
+
+
+
 public class Main {
     private static Scanner sc = new Scanner(System.in);
 
@@ -11,15 +15,34 @@ public class Main {
 
         Cargo cargo = null;
 
-        while (cargo ==null){
+        while (cargo == null){
             System.out.println("Informe o cargo do funcionario: ");
             String cargoStr = sc.nextLine();
         }
 
         try{
-            cargo = Cargos.valueOf(cargoStr.toUpperCase());
+            String cargoStr;
+            cargo = Cargo.valueOf(cargoStr.toUpperCase());
         }catch(IllegalArgumentException ex){
             System.out.printf("Cargo inválido. Tente Novamente!");
         }
+        
+        switch (cargo){
+            case DESENVOLVEDOR:
+                return new Desenvolvedor(nome,id,salario);
+                
+            case SUPORTE: 
+                return new Suporte(nome,id,salario);
+                
+            case GERENTE: 
+                return new Gerente(nome,id,salario);
+                
+        }
+        
+        return null;
+    }
+
+    public static void main(String[] args) {
+        
     }
 }

@@ -1,5 +1,5 @@
 package aula2;
 
-public enum Cargos {
+public enum Cargo {
     DESENVOLVEDOR, GERENTE, SUPORTE;
 }
