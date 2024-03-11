@@ -9,6 +9,8 @@
 [![aulas - poyatos](https://img.shields.io/badge/repositorio-poyatos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/poyatos)
 [![aulas - rafa](https://img.shields.io/badge/repositorio-rafa-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/rafa) 
 
+[![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
+[![organização](https://img.shields.io/badge/organização-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDAA-2024-1)
 
 ---
 
@@ -16,3 +18,5 @@
  <h4 align="center"> <em> Professor responsável: André </em></h4>
 
  <p> Teoria da Computação e Compiladores estuda como descrever formalmente linguagens para serem reconhecidas por máquinas computacionais. Ela explora modelos matemáticos, classificações de linguagens, estruturas, propriedades e relacionamentos entre elas. Também abrange a interpretação de linguagens de programação, identificação de elementos e validação semântica, além do uso de ferramentas na construção de compiladores. </p>
+ 
+[![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
