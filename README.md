@@ -20,3 +20,6 @@
  <p> Teoria da Computação e Compiladores estuda como descrever formalmente linguagens para serem reconhecidas por máquinas computacionais. Ela explora modelos matemáticos, classificações de linguagens, estruturas, propriedades e relacionamentos entre elas. Também abrange a interpretação de linguagens de programação, identificação de elementos e validação semântica, além do uso de ferramentas na construção de compiladores. </p>
  
 [![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
+
+
+ <img  align="center" src="https://ugokawaii.com/wp-content/uploads/2023/03/studying.gif">
