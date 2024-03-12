@@ -6,7 +6,7 @@
  <h4 align="center"> <em> Professores responsáveis: Poyatos & Rafaela </em></h4>
 <p> Estrutura de Dados e Algoritmos aborda a manipulação e organização de dados por meio de estruturas simples e complexas, incluindo listas, pilhas, filas, conjuntos, com alocação sequencial e encadeada. Também explora conceitos como recursão, árvores de busca, teoria de grafos para solução de problemas de busca, além da eficiência na pesquisa e ordenação de dados. Avalia-se a capacidade de desempenho e complexidade dos códigos (algoritmos), com a consideração de problemas que podem ser insolúveis computacionalmente. </p>
 
-[![aulas - poyatos](https://img.shields.io/badge/repositorio-poyatos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/poyatos)
+[![aulas - poyatos](https://img.shields.io/badge/repositorio-poyatos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/poyatos/src)
 [![aulas - rafa](https://img.shields.io/badge/repositorio-rafa-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/rafa/src) 
 
 [![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
