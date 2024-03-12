@@ -2,10 +2,10 @@ package aula2;
 
 public class Desenvolvedor  extends Funcionario{
 
-    public Desenvolvedor(String nome, int id, double salario){
-        super(nome,id,salario);
+    public Desenvolvedor(String nome, int id, double salarioBase, Cargo cargo){
+        super(nome,id,salarioBase, cargo);
     }
-    public double calcularSalario(double salario){
-        return salario * 0.1;
+    public double calcularSalario(double salarioBase){
+        return salario * 1.1;
     }
 }
