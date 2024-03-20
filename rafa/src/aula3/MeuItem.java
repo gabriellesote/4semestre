@@ -29,7 +29,7 @@ public class MeuItem implements  Item {
     }
 
     @Override
-    public Object recuperarChave(){
+    public Object recuperaChave(){
         return  this.chave;
     }
 }

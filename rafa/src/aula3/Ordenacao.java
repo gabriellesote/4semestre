@@ -42,7 +42,7 @@ public class Ordenacao {
         do{
             troca = false;
             for(int i = 0; i < n-1; i++){
-                if(v[i].compara(v[i+1])){
+                if(v[i].compara(v[i+1]) > 0){
                     Item temp = v[i];
                     v[i] = v[i+1];
                     v[i+1] = temp;
@@ -83,7 +83,20 @@ public class Ordenacao {
     }
 
 
+    public static void shellSort(Item[] v){
 
+        int n = v.length;
 
+        for(int gap = n / 2; gap > 0; gap /= 2){
+            for(int i = gap; i< n; i += 1){
+                Item temp = v[i];
 
+                int j;
+                for(j = i; j >= gap && v[j - gap].compara(temp) > 0; j -=gap){
+                    v[j] = v[j - gap];
+                }
+                v[j] = temp;
+            }
+        }
+    }
 }
