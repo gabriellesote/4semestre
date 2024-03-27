@@ -1,4 +1,4 @@
-package aula2;
+package na_sala.aula1_21fev24.aula2_28fev24;
 
 public class Gerente extends Funcionario{
     public Gerente(String nome, int id, double salario, Cargo cargo){

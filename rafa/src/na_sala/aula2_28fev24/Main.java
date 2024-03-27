@@ -1,6 +1,7 @@
-package aula2;
-
+package na_sala.aula1_21fev24.aula2_28fev24;
 import java.util.Scanner;
+
+// Data: 28/02/24
 
 public class Main {
 

@@ -1,4 +1,6 @@
-package aula1;
+package na_sala.aula1_21fev24;
+
+// Data: 21/02/24
 
 public class Automovel {
     //Atributos
